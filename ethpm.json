@@ -1,0 +1,17 @@
+{
+  "package_name": "trustless-bridge",
+  "version": "0.1.0",
+  "description": "Connect Exohood assets on any EVM chains with a bridge.",
+  "authors": [
+    "JJ Uzumaki <jjuzumaki@exohood.org>"
+  ],
+  "keywords": [
+    "ethereum",
+    "bridge",
+    "evm"
+  ],
+  "dependencies": {
+    "tokens": "^1.0.0"
+  },
+  "license": "MIT"
+}
