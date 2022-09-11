@@ -45,7 +45,7 @@
 
 pragma solidity ^0.4.18;
 
-import "./MerklePatriciaProof.sol";
+import "./MultichainProof.sol";
 import './RLPEncode.sol';
 import "./BytesLib.sol";
 import "tokens/contracts/eip20/EIP20.sol";
