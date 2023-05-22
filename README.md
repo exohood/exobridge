@@ -1,3 +1,5 @@
+![Title](exobridge.png)
+
 # ExoBridge "Connecting Blockchains, Unlocking Possibilities: Exohood's Multichain Bridge".
 
 ## This module is for experimental use only on the Exohood Platform. Proceed with caution and explore the possibilities of cross-chain transactions with us. Together, let's push the boundaries of decentralized finance! 
